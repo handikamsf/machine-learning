@@ -1,4 +1,5 @@
 Segmentasi Kualitas Hidup dan Aksesibilitas Digital Kabupaten/Kota di Sumatera (2024)
+
 Repositori ini memuat source code dan analisis komparatif dari proyek segmentasi kewilayahan menggunakan algoritma K-Means dan DBSCAN. Analisis ini memetakan 154 kabupaten dan kota di Pulau Sumatera berdasarkan enam indikator makroekonomi dan infrastruktur digital dari Badan Pusat Statistik (BPS) tahun 2024.
 
 Author: Muhammad Handika Maulana Sifa (Mahasiswa Sains Data, Semester 4)
